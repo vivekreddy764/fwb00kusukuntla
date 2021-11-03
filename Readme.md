@@ -10,7 +10,7 @@ umbrella_type(string)
 color(string)
 cost(number)
 
-[umbrella](https://fwb00kusukuntla.herokuapp.com/restaurant)
+[umbrella](https://fwb00kusukuntla.herokuapp.com/umbrella)
 
 [Addmods](https://fwb00kusukuntla.herokuapp.com/addmods?rows=3&cols=4)
 
